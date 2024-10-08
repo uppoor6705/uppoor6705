@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uppoor6705
+- 👋 Hi, I’m Shrinidhi S Uppoor
 - 👀 I’m interested in Badminton, Gaming, Trekking, Swimming...
 - 🌱 I’m currently learning Automation, CI/CD
 - 📫 How to reach me shrinidhi.uppoor@pricelabs.co
